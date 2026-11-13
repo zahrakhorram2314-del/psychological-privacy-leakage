@@ -1,26 +1,34 @@
-# Psychological Privacy Leakage
+# Privacy-Aware Use of Conversational AI
 
-**Research focus:** How conversational AI tone and contextual privacy cues may shape disclosure decisions.
+An independent educational project about using conversational AI thoughtfully while protecting personal information, maintaining user autonomy, and asking better questions.
 
-**Status:** Protocol development. No participant data have been collected and no empirical findings are claimed.
+## Purpose
 
-## Research question
-How do conversational tone (warm/socially expressive vs. neutral/task-focused) and a contextual privacy notice influence choices to disclose fictional, non-identifying information in a hypothetical AI interaction?
+This project helps everyday users make safer and more intentional choices when interacting with AI systems. It focuses on practical habits rather than claiming to report an experiment or empirical research findings.
 
-## Proposed study
-A small 2 × 2 feasibility pilot comparing two tone conditions and two privacy-cue conditions. Participants would choose only from invented profile cards; no free-text personal disclosure is requested. Recruitment and data collection must wait until applicable institutional and local ethics requirements have been checked.
+## Practical guide
 
-## Research integrity
-This project distinguishes literature-based rationale, proposed methods, actual pilot observations, and interpretation. Hypotheses are not findings. No simulated data will be presented as participant results. A small convenience sample cannot establish population-level effects.
+Start here: [Practical Guidelines for Privacy-Aware AI Interaction](research/practical-guidelines-for-privacy-aware-ai-interaction.md)
 
-## Planned repository structure
-- `research/protocol.md` — question, design, procedure, safeguards, limitations.
-- `research/conditions-and-stimuli.md` — standardized fictional stimuli.
-- `research/analysis-plan.md` — outcomes and exploratory analysis.
-- `research/ethics-and-data-protection.md` — participant protection and data minimization.
+The guide covers:
 
-## Why it matters
-Privacy protection is not only encryption and secure storage. It also concerns the interaction before information is entered: what an interface asks, how it asks, what users believe is happening, and whether they can make an informed choice. The goal is not to make AI cold; it is to make warmth compatible with transparency, user control, and data minimization.
+- **Sensitive information:** what should not be shared unnecessarily, including passwords, identity and financial details, precise location, sensitive health information, and other people's private data.
+- **Data minimization:** sharing only the context needed to complete a task.
+- **Focused prompting:** stating the goal, relevant context, constraints, and scope clearly.
+- **Critical thinking:** asking AI to challenge assumptions, identify uncertainty, and offer alternatives rather than simply agree.
+- **Responsible interaction:** understanding AI limitations and checking the service's privacy and data-handling practices.
+- **Privacy-aware design:** ways AI products can make safer choices easier for users.
 
-## Scope
-Independent educational research. This is not a Google research project, clinical study, or endorsement by any organization.
+## Core principle
+
+**Share the minimum information necessary, ask for the help you actually need, and retain your own judgment.**
+
+A friendly or human-like conversational style is not a guarantee of confidentiality. Users should check the privacy practices and settings of the service they use. A prompt instruction alone cannot guarantee how a service stores or processes information.
+
+## Scope and transparency
+
+This is an independent educational resource. It is not a clinical study, a completed human-participant study, or an endorsement by Google or any other organization. The examples in the guide are illustrative. No participant data or empirical findings are claimed.
+
+## About the approach
+
+The project brings together practical privacy awareness, clear communication, data minimization, and critical use of AI. Its goal is to help people benefit from AI without sharing more than a task requires.
